@@ -1,0 +1,1 @@
+# plugins-site-favicon
