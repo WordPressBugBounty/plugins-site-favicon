@@ -1,11 +1,11 @@
 === Site Favicon ===
 
-Contributors: bhadaway
-Donate link: https://calmestghost.com/donate
+Contributors: webguyio
+Donate link: https://webguy.io/donate
 Tags: favicon, icon, favorites icon, site icon
 Requires at least: 5.0
-Tested up to: 6.5
-Stable tag: 0.3
+Tested up to: 6.8
+Stable tag: 1.0
 License: Public Domain
 License URI: https://wikipedia.org/wiki/Public_domain
 
@@ -36,6 +36,9 @@ Set the favicon URL under *Appearance > Customize > Site Identity > Site Favicon
 * Activate
 
 == Changelog ==
+
+= 1.0 =
+* Quality of life improvements
 
 = 0.3 =
 * Minor security fix
