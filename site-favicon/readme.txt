@@ -13,6 +13,8 @@ Add a favicon.
 
 == Description ==
 
+[💬 Ask Question](https://github.com/webguyio/support) | [📧 Email Me](mailto:webguywork@gmail.com)
+
 Add a favicon.
 
 Set the favicon URL under *Appearance > Customize > Site Identity > Site Favicon*.
